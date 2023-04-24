@@ -1,0 +1,11 @@
+{
+  "name": "ford maverick",
+  "milesPerGallon": 21,
+  "cylinders": 6,
+  "displacement": 200,
+  "horsepower": 85,
+  "weight_in_lbs": 2587,
+  "acceleration": 16,
+  "year": "1970-01-01",
+  "origin": "USA"
+}

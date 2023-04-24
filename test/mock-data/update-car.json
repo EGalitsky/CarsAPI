@@ -1,0 +1,9 @@
+{
+  "name": "ford maverick 2",
+  "milesPerGallon": 11,
+  "cylinders": 8,
+  "displacement": 100,
+  "horsepower": 185,
+  "weight_in_lbs": 2087,
+  "acceleration": 20
+}

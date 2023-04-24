@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "dodge charger 2.2",
+    "Miles_per_Gallon": 36,
+    "Cylinders": 4,
+    "Displacement": 135,
+    "Horsepower": 84,
+    "Weight_in_lbs": 2370,
+    "Acceleration": 13,
+    "Year": "1982-01-01",
+    "Origin": "USA"
+  },
+  {
+    "_id": "644567a20a24968d8082963d",
+    "name": "ford maverick",
+    "milesPerGallon": 21,
+    "cylinders": 6,
+    "displacement": 200,
+    "horsepower": 85,
+    "weight_in_lbs": 2587,
+    "acceleration": 16,
+    "year": "1970-01-01",
+    "origin": "USA"
+  },
+  {
+    "Name": "chevrolet camaro",
+    "Miles_per_Gallon": 27,
+    "Cylinders": 4,
+    "Displacement": 151,
+    "Horsepower": 90,
+    "Weight_in_lbs": 2950,
+    "Acceleration": 17.3,
+    "Year": "1982-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "ford mustang gl",
+    "Miles_per_Gallon": 27,
+    "Cylinders": 4,
+    "Displacement": 140,
+    "Horsepower": 86,
+    "Weight_in_lbs": 2790,
+    "Acceleration": 15.6,
+    "Year": "1982-01-01",
+    "Origin": "USA"
+  }
+]
